@@ -9,6 +9,6 @@ ul{
     outline: 1px;
 }
 
-/* .loggedIn{
-    
-} */
+#loggedIn{
+    width: 15%;
+}
